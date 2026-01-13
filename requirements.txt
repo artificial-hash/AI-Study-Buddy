@@ -1,6 +1,7 @@
-streamlit
-transformers
 torch
-PyPDF2
-python-dotenv
+transformers
 sentencepiece
+pypdf
+pillow
+streamlit
+python-dotenv
